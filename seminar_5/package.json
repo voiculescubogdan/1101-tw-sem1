@@ -1,0 +1,32 @@
+{
+  "name": "seminar_5",
+  "version": "1.0.0",
+  "description": "seminar 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js",
+    "dev:watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voiculescubogdan/1101-tw-sem1.git"
+  },
+  "keywords": [
+    "express",
+    "javascript"
+  ],
+  "author": "Voiculescu Bogdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voiculescubogdan/1101-tw-sem1/issues"
+  },
+  "homepage": "https://github.com/voiculescubogdan/1101-tw-sem1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
